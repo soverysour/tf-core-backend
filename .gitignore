@@ -1,0 +1,9 @@
+.stack-work/
+core-backend.cabal
+*~
+profiling-data/
+*.lock
+.env
+out/
+.idea/
+core-backend.iml
